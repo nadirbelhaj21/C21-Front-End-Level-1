@@ -1,0 +1,15 @@
+h1{
+    color:aqua;
+    text-align:center;
+}
+p{
+    color:darkcyan;
+    text-align: center;
+}
+.mijnAfbeelding{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: dimgrey;
+}
